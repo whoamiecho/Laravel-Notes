@@ -2,10 +2,8 @@
 
 ## 章节
 
-* [路由](README.md)
+* [路由](路由.md)
 * [CSRF](csrf.md)
 
-## Methods
 
-* [Defining Methods](methods.md)
 
